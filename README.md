@@ -1,7 +1,7 @@
 # RFID-Attendance
- This is the 3rd Module of my FYP
+ This is the 3rd Module of my FYP 
  
-### Components
+### Components to Implement
  - NodeMCU
  - RFID Tags/Smart Cards
  
