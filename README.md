@@ -7,7 +7,7 @@
  - [3rd Module](https://github.com/AbdulHadi404/RFID-Attendance)
  - [Track Server](https://github.com/AbdulHadi404/track-server)
  
-## Components to Implement
+## Components used to Implement
  - NodeMCU
  - RFID Tags/Smart Cards
  
